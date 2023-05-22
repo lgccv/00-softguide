@@ -36,3 +36,7 @@ http://www.javascriptpeixun.cn/course/1428/task/70314/show
 # 公钥和私钥的地址(C:\Users\Administrator\.ssh)
   - 指令:ssh-keygen -t rsa
   
+# 冲突的本质:
+- 同名文件中有不同的代码
+- 多人协作修改了公共的代码
+  
