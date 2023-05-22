@@ -33,6 +33,6 @@ http://www.javascriptpeixun.cn/course/1428/task/70314/show
 - git branch -d dev                       # 删除分支
   
   
-  # 公钥和私钥的地址(C:\Users\Administrator\.ssh)
+# 公钥和私钥的地址(C:\Users\Administrator\.ssh)
   - 指令:ssh-keygen -t rsa
   
