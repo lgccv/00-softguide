@@ -6,7 +6,6 @@ http://pypi.douban.com/simple/
 http://mirrors.cloud.tencent.com/pypi/simple
 https://repo.huaweicloud.com/repository/pypi/simple
 https://mirror.baidu.com/pypi/simple
-<<<<<<< HEAD
-=======
 
->>>>>>> 371cfc5a08134dd3376a0e8a26ac2462c4f0074f
+
+pip install jieba -i https://pypi.douban.com/simple/
